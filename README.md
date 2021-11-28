@@ -1,4 +1,4 @@
-# mengzhuj.github.io
+# mengzhu.github.io
 
 Source code for my personal website (mengzhu.me).
 
